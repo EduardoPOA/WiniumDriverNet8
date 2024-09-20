@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/ApiAtendimento/bin/Debug/net5.0
+/.vs
+/ApiAtendimento/obj

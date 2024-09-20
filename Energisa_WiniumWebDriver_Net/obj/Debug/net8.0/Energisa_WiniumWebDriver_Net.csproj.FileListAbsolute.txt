@@ -1,0 +1,14 @@
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.csproj.AssemblyReference.cache
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.Properties.Resources.resources
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.csproj.GenerateResource.cache
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.AssemblyInfoInputs.cache
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.AssemblyInfo.cs
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.csproj.CoreCompileInputs.cache
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\bin\Debug\net8.0\Energisa_WiniumWebDriver_Net.deps.json
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\bin\Debug\net8.0\Energisa_WiniumWebDriver_Net.dll
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\bin\Debug\net8.0\Energisa_WiniumWebDriver_Net.pdb
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.dll
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\refint\Energisa_WiniumWebDriver_Net.dll
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\Energisa_WiniumWebDriver_Net.pdb
+C:\Users\eos22\Desktop\Energisa_WiniumWebDriver_Net\Energisa_WiniumWebDriver_Net\obj\Debug\net8.0\ref\Energisa_WiniumWebDriver_Net.dll
